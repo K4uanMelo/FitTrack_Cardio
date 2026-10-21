@@ -12,7 +12,7 @@
 
 Acesse o protótipo interativo e navegável das telas diretamente no Figma:
 
-👉 **[Acessar Protótipo Interativo no Figma](https://www.figma.com/proto/Sb6uky8iIVB5MkyiSvg1mk/FIT-TRACK-CARDIO?node-id=2-11106&t=f0kxS6Sg30OXxjHp-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A10801)**
+👉 **[Acessar Protótipo Interativo no Figma](https://www.figma.com/proto/Sb6uky8iIVB5MkyiSvg1mk/FIT-TRACK-CARDIO?node-id=2-10801&t=f0kxS6Sg30OXxjHp-1&scaling=contain&content-scaling=responsive&page-id=0%3A1&starting-point-node-id=2%3A10801)**
 
 ---
 
