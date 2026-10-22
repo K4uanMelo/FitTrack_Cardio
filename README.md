@@ -38,7 +38,12 @@ O **FitTrack Cardio** é uma solução mobile voltada para a prática de ativida
 5. **Dashboard & Estatísticas da Semana:** Resumo dos treinos realizados na semana e quilometragem total acumulada.
 
 ---
-
+* **Tecnologia Escolhida:** React Native (Expo)
+* **Integrantes e RAs:**
+  * **Arlyson Silva** — RA: 113627
+  * **Kauan Melo** — RA: 113471
+  * **Richard Rocha** — RA: 113760
+* **Disciplina:** Desenvolvimento de Aplicativos Móveis
 ## 🗺️ Fluxo de Navegação e Telas
 
 O aplicativo conta com **6 telas centrais** organizadas através de navegação inferior (*Bottom Tab Navigation*) e navegação em pilha (*Stack Navigation*):
